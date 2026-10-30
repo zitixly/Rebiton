@@ -1,68 +1,107 @@
 # Rebiton Privacy Policy and Terms of Service
 
-**Effective Date:** April 13, 2025  
-**Developer:** ZitixYT
+**Effective Date:** October 30, 2026  
+**Developer:** ZITIX / ZitixYT
 
 ---
 
 ## Privacy Policy
 
-Rebiton is a Discord bot developed by ZitixYT to assist in server management and provide various automation features. This Privacy Policy describes how we collect, use, and protect user data.
+Rebiton is a Discord bot that provides moderation, server management, automation, logging, ticketing, and AI-assisted features. This policy explains what information may be processed and how it is used.
 
-### 1. Data Collection
-Rebiton collects only the essential data to function properly, including:
-- Discord User IDs  
-- Server (Guild) IDs  
-- Message content (only for moderation-related tasks)  
-- Channel and Role IDs for configuration purposes
+### 1. Information We May Process
 
-Rebiton does **not** collect sensitive personal data.
+Depending on which features a Discord server enables, Rebiton may process:
+- Discord user IDs and server (guild) IDs.
+- Channel IDs, role IDs, and server configuration settings.
+- Message content needed to run prefix commands, moderation, Auto Moderation, logging, tickets, or AI-assisted commands.
+- Moderation actions, ticket messages, command inputs, and relevant bot logs.
+- Prompts and contextual information submitted to AI features.
 
-### 2. How We Use Data
-The data collected is used solely for:
-- Moderation  
-- Ticketing system  
-- Auto-moderation  
-- Logging  
-- Premium features (if applicable)
+Rebiton does not intentionally request government identification numbers, payment-card details, or other highly sensitive personal information through ordinary bot commands. Please do not submit sensitive information to the bot or its AI features.
 
-We do **not** share or sell any collected data to third parties.
+### 2. How Information Is Used
 
-### 3. Data Storage
-Data is stored securely using standard security methods and only retained as long as necessary for Rebiton's functionality. You can request data deletion at any time.
+Information may be used to:
+- Execute commands and provide bot functionality.
+- Moderate servers and help protect them against abuse or raids.
+- Operate Auto Moderation, logging, tickets, and server configuration features.
+- Provide AI-assisted responses or task execution when a user invokes those features.
+- Diagnose errors, prevent misuse, and maintain service reliability.
 
-### 4. User Control
-Server administrators can remove Rebiton from their server at any time, which will remove all stored data. For specific data deletion requests, users can contact the developer directly.
+### 3. AI Features and Third-Party Services
 
-### 5. Contact Information
-For any questions or data removal requests, please contact the developer:  
-**Discord:** [@zitixyt](https://discord.com/users/787157857098792961)  
-**Email:** vikashsarthi051@gmail.com  
-**Support Server:** [Join Here](https://discord.gg/NhkTWXtTrr)
+When you use an AI-powered feature, the prompt and relevant context you provide may be sent to an external AI service to generate a response. That service processes the information under its own terms, privacy policy, and settings. Depending on the provider and applicable settings or terms, submitted data may be retained or used to improve or train AI models. Do not submit passwords, private credentials, payment details, or other sensitive information to AI features.
+
+Rebiton may also rely on hosting, database, or other infrastructure providers to operate the service. Those providers may process data as needed to provide their services.
+
+### 4. Storage and Retention
+
+Rebiton may store server settings, ticket records, moderation or bot logs, and other information needed for enabled features. Retention periods depend on the feature, configuration, and technical requirements. Data may remain in backups or third-party systems for a limited period after deletion is requested. Removing Rebiton from a server does not necessarily delete messages or information already copied to third-party services.
+
+### 5. Sharing and Sale of Data
+
+We do not sell personal information. Information may be processed by third-party AI, hosting, database, or infrastructure providers when necessary to operate the features you use. We may also disclose information when required by law or when reasonably necessary to protect the service, its users, or others.
+
+### 6. Your Choices and Data Requests
+
+Server administrators can disable features or remove Rebiton from their server. You may request access to or deletion of data associated with your use of Rebiton by contacting the developer using the details below. Please include enough information to identify the relevant server or data, but do not send passwords or other sensitive credentials. Some records may need to be retained for security, legal, or technical reasons.
+
+### 7. Security
+
+Reasonable measures are used to help protect stored information. No online service or method of transmission or storage can be guaranteed to be completely secure.
+
+### 8. Children's Privacy
+
+Rebiton is not intended to collect personal information directly from children outside the normal operation of Discord. Users must comply with Discord's minimum age requirements and applicable local laws.
+
+### 9. Policy Changes
+
+This policy may be updated when Rebiton's features or practices change. The effective date above indicates the latest revision. Continued use of Rebiton after an update means you have had an opportunity to review the revised policy.
+
+### 10. Contact
+
+For privacy or data requests, contact:
+- Discord: [ZITIX / ZitixYT](https://discord.com/users/787157857098792961)
+- Email: vikashsarthi051@gmail.com
+- Support server: [Rebiton Support](https://discord.gg/NhkTWXtTrr)
 
 ---
 
 ## Terms of Service
 
-By inviting and using **Rebiton**, you agree to the following Terms of Service:
+### 1. Acceptance
 
-### 1. Usage
-Rebiton is intended for server moderation, ticket management, logging, and other utility functions within Discord. Misuse or abuse of the bot may result in service denial.
+By inviting, configuring, or using Rebiton, you agree to these Terms and the Privacy Policy. If you do not agree, do not use the bot.
 
-### 2. Uptime and Support
-We aim to keep Rebiton online 24/7, but we are not liable for any downtime or data loss. Support is available through our official Discord server on a best-effort basis.
+### 2. Acceptable Use
 
-### 3. Limitation of Liability
-Rebiton is not responsible for any actions taken due to incorrect bot setup or malicious use by server members or administrators.
+You agree not to use Rebiton to violate applicable laws, Discord's Terms of Service or Community Guidelines, harass others, or disrupt servers and services. You are responsible for your server configuration and the actions taken by your staff using the bot.
 
-### 4. Changes
-We may update these Terms of Service at any time. Continued use of Rebiton after such changes means you accept the updated terms.
+### 3. Moderation and AI Outputs
+
+Rebiton provides tools to assist server management. Moderation actions and AI-generated responses may be imperfect. Server owners and administrators remain responsible for reviewing consequential actions and outputs. Do not rely on AI output as professional, legal, medical, financial, or other guaranteed advice.
+
+### 4. Availability and Changes
+
+Features may change, be limited, or become unavailable for maintenance, security, provider outages, or other reasons. We do not guarantee uninterrupted or error-free service.
 
 ### 5. Premium Features
-Premium features may require a purchase or developer approval. Misuse of premium features may lead to blacklisting from the bot.
 
-### 6. Contact Information
-For concerns related to these Terms, please contact:  
-**Discord:** [@zitixyt](https://discord.com/users/787157857098792961)  
-**Email:** vikashsarthi051@gmail.com  
-**Support Server:** [Join Here](https://discord.gg/NhkTWXtTrr)
+If Rebiton offers paid or premium features, any applicable price, duration, renewal, and refund terms will be presented separately at the point of purchase. Users must not attempt to bypass premium access controls.
+
+### 6. Disclaimer and Limitation of Liability
+
+Rebiton is provided on an “as is” and “as available” basis to the extent permitted by law. To the extent permitted by applicable law, the developer is not liable for indirect or consequential loss, data loss, service interruption, moderation decisions, or reliance on AI-generated content arising from use of the bot.
+
+### 7. Termination
+
+Access to Rebiton may be restricted or terminated for abuse, security risks, violations of these Terms, or operational reasons.
+
+### 8. Changes to These Terms
+
+These Terms may be updated as Rebiton evolves. The latest version will be published at this location.
+
+---
+
+By using Rebiton, you acknowledge that you have read this Privacy Policy and Terms of Service.
