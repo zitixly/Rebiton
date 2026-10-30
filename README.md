@@ -1,7 +1,7 @@
 # Rebiton Privacy Policy and Terms of Service
 
 **Effective Date:** October 30, 2026  
-**Developer:** ZITIX / ZitixYT
+**Developer:** zitixly
 
 ---
 
